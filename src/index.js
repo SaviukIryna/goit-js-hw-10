@@ -68,6 +68,6 @@ function renderOneCountry(countries) {
 }
 
 function cleanHtml() {
-  countryList.innerHTML = '';
-  countryInfo.innerHTML = '';
-}
+    countryList.innerHTML = '';
+    countryInfo.innerHTML = '';
+  }
